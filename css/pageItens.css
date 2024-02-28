@@ -1,0 +1,36 @@
+main{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+a {
+    text-decoration: none !important; 
+    letter-spacing: 0.2rem;
+    
+}
+.a p{
+    text-align: left;  
+    margin: auto;
+    border-bottom: 1px solid #00000027;
+    
+}
+.prepP{
+    text-align: center !important;
+    margin-top: 40px !important;
+}
+
+@media screen and (max-width: 480px) {
+
+    .a{
+        text-align: center;
+        
+    }
+    .card-DS {
+        width: 90%;
+        height: 20%;
+    }
+   .row{
+        margin: auto !important;
+        
+   }
+   
+  }

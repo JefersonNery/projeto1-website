@@ -1,0 +1,28 @@
+
+h1{
+    padding: 45px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 100px;
+}
+p{
+    text-align: center;
+}
+.border-b{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+}
+.card{
+    margin: auto;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+
+@media screen and (max-width: 480px) {
+    .card{
+        margin: 0px;
+    }
+
+  }
+  
